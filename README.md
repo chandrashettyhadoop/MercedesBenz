@@ -1,10 +1,10 @@
 # MercedesBenz
 Mercedes Benz online shopping selenium project 
 
-Pre-requisites
-Java 8
-Maven
-Eclipse
+Pre-requisites:
+Java 8,
+Maven,
+Eclipse.
 
 Implementation details:
 
